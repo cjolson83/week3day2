@@ -1,0 +1,47 @@
+bbody {
+    margin: 0;
+}
+
+.box1 {
+    padding: 15px;
+    background-color: lightgray;
+}   
+
+.rectangle1 {
+    height: 50px;
+    width: 50px;
+    background-color: lightskyblue;
+}
+
+.box2 {
+    padding: 40px;
+}   
+
+p {
+    font-size: small;
+    color: rgb(68, 66, 66);
+}
+
+.box3 {
+    background-color: lightskyblue;
+    height: 150px;
+    width: 100%;
+}
+
+.box4 {
+    background-color: rgb(81, 235, 183);
+    height: 150px;
+    width: 100%;  
+}
+
+.box5 {
+    background-color: rgb(189, 235, 120);
+    height: 150px;
+    width: 100%;  
+}
+
+.box6 {
+    background-color: rgb(223, 223, 94);
+    height: 150px;
+    width: 100%;  
+}
